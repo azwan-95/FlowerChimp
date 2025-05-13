@@ -79,6 +79,7 @@ data_summary = {
     'location': location,
     'default_price': default_price,
     'img_url': img_url
+    'product_details': details
 }
 
 print(data_summary)
